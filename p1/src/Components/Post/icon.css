@@ -1,0 +1,11 @@
+.posticon{
+    margin-top: -30px;
+    margin-left: 15px;
+    margin-bottom: -15px;
+    display: flex;
+    flex-direction: row;
+    gap: 2%;;
+    font-size: medium;
+    /* background-color: aqua; */
+    padding: 0px 0px 20px 0px;
+}

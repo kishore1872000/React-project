@@ -1,0 +1,56 @@
+.Subside {
+    margin-top: 20px;
+}
+
+.folder-left {
+    margin-left: -150px;
+    min-height: 20rem;
+    width: 30rem;
+    padding: 40px;
+}
+
+.folder-leftside {
+    margin-top: -309px;
+    margin-left: 230px;
+    min-height: 20rem;
+    width: 30rem;
+    padding: 40px;
+}
+.folder-rightside{
+    margin-top: -400px;
+    margin-left: 480px;
+    min-height: 20rem;
+    width: 30rem;
+    padding: 40px;
+}
+.folder-right{
+    margin-top: -400px;
+    margin-left: 720px;
+    min-height: 20rem;
+    width: 30rem;
+    padding: 40px;
+}
+
+.item1 img {
+    margin-left: -110px;
+    width: 210px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.item1 p {
+    margin-left: -100px;
+    font-size: small;
+}
+
+.money {
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ic4 {
+    text-shadow: 2px 4px 6px goldenrod;
+    color: goldenrod;
+    margin-top: -30px;
+    margin-left: 40px;
+}

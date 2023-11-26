@@ -1,0 +1,31 @@
+.Search {
+    margin-top: -70px;
+    margin-left: 350px;
+    height: 70px;
+    width: 650px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+input{
+    background-color: transparent;
+    border: none;
+    margin-left:40px;
+    height: 80%;
+    font-size: 1.25rem;
+    width: 100%;
+}    
+.icon{
+    margin-top: 20px;
+   margin-left: 30px;
+}
+.icon1{
+    margin-top: 20px;
+   margin-right: 25px;
+}
+h4{
+    margin-right:  20px;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}

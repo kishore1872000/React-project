@@ -1,0 +1,25 @@
+.Seller {
+    margin-top: -70px;
+    margin-left: 1040px;
+    height: 70px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgb(149, 213, 197);
+}
+
+.SellerWord{
+    margin-top: auto;
+    max-width: 150px;
+    margin-left: 100px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    display: grid;
+    place-items:center;
+    margin-left: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-weight: bold;
+    /* background-color: black; */
+    padding: 9px 0px;
+}

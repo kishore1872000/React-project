@@ -1,0 +1,34 @@
+.Post {
+        margin-top: -585px;
+        margin-left: 350px;
+        height: 78vh;
+        width: 650px;
+        /* border-radius: 15px;
+         background-color:#ffffff;  */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* overflow:scroll; */
+        overflow: hidden;
+  
+}
+
+.PostInput {
+        margin-top: -90px;
+        background-color: transparent;
+        height: 66vh;
+        font-size: 1.25rem;
+        width: 650px;
+        border-radius: 15px;
+       
+}
+.PostInput1 {
+        margin-top: 30px;
+        background-color: transparent;
+        height: 66vh;
+        font-size: 1.25rem;
+        width: 650px;
+        border-radius: 15px;
+        /* background-color: aquamarine; */
+       
+}
